@@ -1,6 +1,3 @@
-#Development by: Web Suraj
-#Contact No: +91 7605863732
-
 import tkinter as tk
 from tkinter import messagebox
 from time import gmtime, strftime
